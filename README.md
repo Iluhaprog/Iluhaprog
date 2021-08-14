@@ -20,4 +20,4 @@
 | Redux            |             |                   |                |
 | TypeScript       |
 
-#### 💥 Also I know a little Java and SpringBoot 💥
+#### 💥 Also I know a little *Java* and *SpringBoot* 💥
