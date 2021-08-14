@@ -15,8 +15,8 @@
 | React            | ReactNative | NodeJS            | Git            |
 | JavaScript       | JavaScript  | NestJS, ExpressJS | Postman        |
 | HTML             | TypeScript  | TypeORM           | Devtools       |
-| CSS              |             | MySQL, PostgreSQL |                |
-| StyledComponents |             | TypeScript        |                |
+| CSS              |             | MySQL, PostgreSQL | NPM            |
+| StyledComponents |             | TypeScript        | YARN           |
 | Redux            |             |                   |                |
 | TypeScript       |
 
