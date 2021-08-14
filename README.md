@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**Iluhaprog/Iluhaprog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Ilya Novak
+### Fullstack developer at insave
 
-Here are some ideas to get you started:
+##### 🔥 I am delighted with web development in all that is connected with it. I also like to create various animations on canvas in js. 
+##### 🗺️ Recently I have been developing applications in ReactNative
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2](https://user-images.githubusercontent.com/32200119/129456020-799b1de1-6581-41e6-9fcb-f74f56604c7e.gif)
+
+### My knowledge
+#### Frontend
+- React
+- JavaScript
+- HTML
+- CSS
+- StyledComponents
+- Redux
+#### Mobile
+- ReactNative
+#### Backend
+- NodeJS
+- NestJS, ExpressJS
+- TypeORM,
+- MySQL, PostgreSQL
+
+#### Also I know a little Java and SpringBoot
