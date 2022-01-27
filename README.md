@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ### I'm Ilya Novak
-### Fullstack developer at insave
 
 ##### 🔥 I am delighted with web development in all that is connected with it. I also like to create various animations on canvas in js. 
 ##### 🗺️ Recently I have been developing applications in ReactNative
